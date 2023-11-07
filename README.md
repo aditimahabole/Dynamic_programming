@@ -5,6 +5,10 @@
 # Longest common subsequence
 <img width="927" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/98389696-c833-42e3-9216-8ab712db1df2">
 
+# Longest Palindromic Subsequence
+<img width="872" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/8905d8f9-a111-4154-ad14-7011c9bb3e17">
+
+
 
 
 
