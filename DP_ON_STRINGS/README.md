@@ -11,6 +11,10 @@
 # Minimum insertion to make string palindromic
 <img width="858" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/f200a7d5-8e96-4c19-bf14-7694d1e7ae42">
 
+# Minimum Insertion/Deletions to Convert A to B
+<img width="956" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/b334ca27-c36a-4718-a4e3-cbdb8ed2b906">
+
+
 
 
 
