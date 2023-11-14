@@ -27,6 +27,8 @@
  <h3> Memoization </h3>
 <hr>
 <img width="860" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/9176a074-f318-478d-84cf-d7966137c577">
+<br>
+ <h3> Tabulation </h3>
 <img width="860" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/71971afe-4c43-4de7-83de-f08386c9f940">
 
 
