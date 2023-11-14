@@ -19,6 +19,15 @@
 <img width="805" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/e9cb21f8-0c83-4417-acff-eea897f39951">
 <img width="749" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/2f515d28-9cec-42a7-8267-4e78ff35e946">
 
+# Distinct Sequences 
+Recurrrsion 
+<img width="865" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/51bb8f61-771f-450d-b186-8d8150bc188f">
+Memoization 
+<img width="864" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/9176a074-f318-478d-84cf-d7966137c577">
+
+
+
+
 
 
 
