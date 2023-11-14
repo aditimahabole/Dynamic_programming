@@ -1,6 +1,6 @@
 
 # Longest Common Substring
-<img width="960" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/06225b8b-a6ad-447e-ba6d-78dba425978c">
+<img width="860" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/06225b8b-a6ad-447e-ba6d-78dba425978c">
 
 # Longest common subsequence
 <img width="927" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/98389696-c833-42e3-9216-8ab712db1df2">
@@ -26,7 +26,9 @@
 <br>
  <h3> Memoization </h3>
 <hr>
-<img width="864" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/9176a074-f318-478d-84cf-d7966137c577">
+<img width="860" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/9176a074-f318-478d-84cf-d7966137c577">
+<img width="860" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/71971afe-4c43-4de7-83de-f08386c9f940">
+
 
 
 
