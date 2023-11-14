@@ -9,7 +9,7 @@ public:
         if(s[i] == t[j])
         {
             int interested = solve(s,t,i-1,j-1,dp);
-            int not_interested = solve(s,t,i-1,j,dp);
+            int not_interested = solve(s,t,i-1,j,dp); // not interested to take charater in s1 we want to take another character 
             return dp[i][j] = interested + not_interested;
         }
         // if matching does not ocur just move s1 pointer
