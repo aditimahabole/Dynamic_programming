@@ -16,7 +16,7 @@
 
 # Shortest Common Supersequence
 <img width="860" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/9e3b072c-7380-4a8f-9071-6e790dfee2a4">
-<img width="805" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/e9cb21f8-0c83-4417-acff-eea897f39951">
+<img width="860" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/e9cb21f8-0c83-4417-acff-eea897f39951">
 <img width="749" alt="image" src="https://github.com/aditimahabole/Dynamic_programming/assets/78752342/2f515d28-9cec-42a7-8267-4e78ff35e946">
 
 # Distinct Sequences 
